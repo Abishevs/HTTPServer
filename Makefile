@@ -3,7 +3,7 @@ CC := gcc
 CFLAGS := -Wall -Wextra
 SRC_DIR := src
 BUILD_DIR := build
-TARGET := main 
+TARGET := server 
 INSTALL_DIR := $(HOME)/.local/bin
 
 # Automatically find all .c and .h files in src/
